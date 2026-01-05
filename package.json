@@ -1,0 +1,18 @@
+{
+  "name": "vantagesuite-e",
+  "description": "Premium vantagesuite-e powered by Daniel Lopez",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellopez882/vantagesuite-e.git"
+  },
+  "homepage": "https://github.com/daniellopez882/vantagesuite-e",
+  "author": "Daniel Lopez <daniellopez882@users.noreply.github.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/daniellopez882/vantagesuite-e/issues"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "onscan.js": "^1.5.2"
+  }
+}
